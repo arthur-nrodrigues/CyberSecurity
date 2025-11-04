@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Buscando arquivos.md",
+                "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buscando arquivos"
+              "title": "Gerenciamento de serviços"
             },
             "group": "fc5e5f2d72c2e98f"
           }
@@ -41,7 +41,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Buscando arquivos.md",
+                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -69,7 +69,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Diagrama de grafo de Buscando arquivos"
+                  "title": "Diagrama de grafo de Gerenciamento de serviços"
                 },
                 "group": "fc5e5f2d72c2e98f"
               }
@@ -86,13 +86,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Buscando arquivos.md",
+                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Índice de Buscando arquivos"
+                  "title": "Índice de Gerenciamento de serviços"
                 },
                 "group": "fc5e5f2d72c2e98f"
               }
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 308.5
   },
   "right": {
     "id": "55a3fd14fcb4b98b",
@@ -249,8 +249,10 @@
   },
   "active": "da56cf1dd0768c01",
   "lastOpenFiles": [
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Distribuições Linux.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Estrutura Linux.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Buscando arquivos.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Distribuições Linux.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Ferramentas de filtragem de texto.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de permissões.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Informações do sistema.md",
@@ -258,7 +260,6 @@
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Trabalhando com arquivos e diretórios.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Intrudução ao Shell.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/RegEx.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Buscando arquivos.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Filtrando conteúdo.md",
     "Pasted image 20251018125152.png",
     "Fotos e pdfs/Pasted image 20251018125037.png",
@@ -293,7 +294,6 @@
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations",
     "4 - Full Notes/CyberSecurity/HTB/Paths",
-    "4 - Full Notes/CyberSecurity/HTB/Sem título.md",
     "Fotos e pdfs",
     "Sem título.canvas"
   ]
