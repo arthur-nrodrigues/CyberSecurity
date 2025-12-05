@@ -6,7 +6,7 @@
       {
         "id": "bad7943df3a68bfb",
         "type": "tabs",
-        "dimension": 65.75471698113208,
+        "dimension": 74.9171270718232,
         "children": [
           {
             "id": "da56cf1dd0768c01",
@@ -14,21 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
+                "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Informações do sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gerenciamento de serviços"
+              "title": "Informações do sistema"
             },
             "group": "fc5e5f2d72c2e98f"
+          },
+          {
+            "id": "56961a7718e6507c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de permissões.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gerenciamento de permissões"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5d129ad1c9e1b17a",
         "type": "split",
-        "dimension": 34.24528301886792,
+        "dimension": 25.082872928176798,
         "children": [
           {
             "id": "69eef853ca5eeca9",
@@ -41,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
+                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Informações do sistema.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -69,7 +84,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Diagrama de grafo de Gerenciamento de serviços"
+                  "title": "Diagrama de grafo de Informações do sistema"
                 },
                 "group": "fc5e5f2d72c2e98f"
               }
@@ -86,13 +101,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
+                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Informações do sistema.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Índice de Gerenciamento de serviços"
+                  "title": "Índice de Informações do sistema"
                 },
                 "group": "fc5e5f2d72c2e98f"
               }
@@ -156,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 410.5
   },
   "right": {
     "id": "55a3fd14fcb4b98b",
@@ -247,47 +262,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "da56cf1dd0768c01",
+  "active": "56961a7718e6507c",
   "lastOpenFiles": [
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Estrutura Linux.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Buscando arquivos.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Distribuições Linux.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Ferramentas de filtragem de texto.md",
+    "4 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Sobre os atacantes (tipos de hackers).md",
+    "4 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Nuvem e Segurança.md",
+    "4 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Informações Pessoais.md",
+    "4 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Ética de segurança.md",
+    "4 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Engenharia Social.md",
+    "4 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Analista de CyberSecurity.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Conhecimento atual.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Objetivo.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Waveterm.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/SandBoxing e isolamento.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Parrot OS.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/OSINT – Open-Source Intelligence.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Docker.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Contêiner.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de permissões.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Gerenciamento de serviços.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Informações do sistema.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Pedindo ajuda.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Trabalhando com arquivos e diretórios.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Intrudução ao Shell.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Pedindo ajuda.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/RegEx.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Filtrando conteúdo.md",
-    "Pasted image 20251018125152.png",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Trabalhando com arquivos e diretórios.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Trabalhando com serviços web.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Ferramentas de filtragem de texto.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals/Estrutura Linux.md",
+    "Fotos e pdfs/Pasted image 20251018125152.png",
     "Fotos e pdfs/Pasted image 20251018125037.png",
-    "Sem título.md",
-    "4 - Full Notes/Sem título.md",
     "Fotos e pdfs/Linux Fundamentals - cheatsheet.pdf",
     "Fotos e pdfs/Linux_Fundamentals_Module_Cheat_Sheet.pdf",
     "Fotos e pdfs/Pasted image 20251006120320.png",
     "Fotos e pdfs/Pasted image 20251006120128.png",
     "Fotos e pdfs/Pasted image 20251006120001.png",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Contêiner.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Docker.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/OSINT – Open-Source Intelligence.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Objetivo.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Conhecimento atual.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Exemplo de relatório de teste de penetração.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Parrot OS.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/SandBoxing e isolamento.md",
-    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Waveterm.md",
     "Fotos e pdfs/Pasted image 20251006104929.png",
     "Fotos e pdfs/Pasted image 20251003103312.png",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Linux fundamentals",
-    "2 - Tags/HTB.md",
     "Fotos e pdfs/Pasted image 20250930160323.png",
     "Fotos e pdfs/containers-vs-virtual-machines.jpg",
     "Fotos e pdfs/Pasted image 20250920150158.png",
-    "1 - Conteúdo central e resumo/CyberSecurity.md",
-    "2 - Tags/Fundamentos da CyberSecurity - Google 1 - 9.md",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/Sem título",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Sem título",
     "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up",
