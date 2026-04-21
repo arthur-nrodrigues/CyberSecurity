@@ -1,5 +1,5 @@
 2025-10-15
-Tags:
+Tags: [[HTB]]
 
 ----
 # Conceito Geral:
